@@ -1,5 +1,5 @@
 # Root directory of dataset.
-path: numbers
+path: ../datasets/numbers
 
 # Paths to training and validation
 # sets relative to 'path' property.
@@ -15,3 +15,4 @@ names:
 # images and labels.
 
 download: https://github.com/IsCactus0/MachinePerception/raw/refs/heads/main/numbers.zip
+
