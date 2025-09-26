@@ -1,18 +1,15 @@
 # Root directory of dataset.
-path: ../datasets/numbers
+path: numbers
 
 # Paths to training and validation
 # sets relative to 'path' property.
 train: images/train
 val: images/val
-# test: optional
 
 # Classification IDs and names.
 names:
-  0: number
-  
+    0: number
+
 # Download link to dataset
 # images and labels.
-
 download: https://github.com/IsCactus0/MachinePerception/raw/refs/heads/main/numbers.zip
-
