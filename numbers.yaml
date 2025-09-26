@@ -5,7 +5,7 @@ path: numbers
 # sets relative to 'path' property.
 train: images/train
 val: images/val
-test: #optional
+# test: optional
 
 # Classification IDs and names.
 names:
@@ -13,4 +13,5 @@ names:
   
 # Download link to dataset
 # images and labels.
+
 download: https://github.com/IsCactus0/MachinePerception/raw/refs/heads/main/numbers.zip
